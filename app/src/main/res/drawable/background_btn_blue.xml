@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="2dp"
+        android:color="#2FD0FE"/>
+    <corners
+        android:radius="@dimen/button_radius" />
+
+    <padding
+        android:left="2dp"
+        android:right="2dp"
+        android:top="2dp"
+        android:bottom="2dp"/>
+
+    <gradient
+        android:startColor="@color/outline_color_blue"
+        android:endColor="@color/text_color_blue"
+        android:type="linear"/>
+
+    <solid android:color="#ffffff"/>
+
+</shape>

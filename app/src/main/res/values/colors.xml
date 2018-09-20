@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2FD0FE</color>
+    <color name="colorPrimaryDark">#3AA9FF</color>
+    <color name="colorAccent">#82ffe8</color>
+
+
+    <!--Dialog-->
+    <color name="dialog_background_color">#ececec</color>
+
+    <!--Word Row Layout-->
+    <color name="pressed_word_row_color">#a6a6a6</color>
+    <color name="default_word_row_color">#ffffff</color>
+    <color name="theloai_view_color">#f1f1f1</color>
+    <color name="theloai_view_text_color">#69d7d9</color>
+    <color name="normal_text_color">#333333</color>
+
+
+    <color name="header_text">#006797</color>
+
+    <!--Button-->
+    <color name="outline_color_blue">#3AA9FF</color>
+    <color name="text_color_blue">#2FD0FE</color>
+    <color name="text_color_white">#ffffff</color>
+
+</resources>

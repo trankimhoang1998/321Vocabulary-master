@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="15"
+    android:orientation="vertical"
+    tools:context="com.example.phanhuuchi.huydaoduc.test.ExamActivity.Exam_Activity">
+
+    <TextView
+        android:id="@+id/stepCountTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="Step Count: 0"
+        android:textSize="24sp"
+        android:layout_gravity="right"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        android:weightSum="2"
+        android:layout_weight="14">
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView0"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp"/>
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView2"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView4"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView6"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:weightSum="4">
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView1"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView3"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView5"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+            <com.example.phanhuuchi.huydaoduc.test.View.CardView
+                android:id="@+id/cardView7"
+                android:layout_weight="1"
+                android:layout_width="fill_parent"
+                android:layout_height="@dimen/card_view_hight"
+                android:layout_margin="10dp">
+
+            </com.example.phanhuuchi.huydaoduc.test.View.CardView>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">321Vocabulary</string>
+    <string name="action_exit">Thoát</string>
+    <string name="action_setting">Cài Đặt</string>
+    <string name="action_new">Thêm</string>
+    <string name="action_delete">Xóa</string>
+    <string name="action_edit">Chỉnh sửa</string>
+    <string name="action_deleteSelect">Xóa</string>
+    <string name="action_settings">Cài Đặt</string>
+    <string name="add_widget">Thêm widget</string>
+    <string name="add_image">Thêm ảnh</string>
+    <string name="remove_image">Xóa ảnh</string>
+    <string name="add_sound">Thêm âm thanh</string>
+    <string name="remove_sound">Xóa âm thanh</string>
+    <string name="trans">Dịch</string>
+    <string name="word">Từ vựng</string>
+    <string name="new_word">Thêm từ</string>
+    <string name="add">Thêm</string>
+    <string name="cancel">Thoát</string>
+    <string name="category">Thể loại</string>
+    <string name="add_successfully">Thêm thành công</string>
+    <string name="duplicate_value">Từ đã có trong danh sách</string>
+    <string name="title_activity_settings">Cài Đặt</string>
+    <string name="pref_header_notifications">Thông Báo</string>
+    <string name="pref_title_new_message_notifications">Tin nhắn thông báo mới</string>
+    <string name="pref_title_ringtone">Nhạc chuông</string>
+    <string name="pref_ringtone_silent">Im lặng</string>
+    <string name="card">Thẻ bài</string>
+    <string name="quiz">Câu Hỏi</string>
+    <string name="typing">Gõ Từ</string>
+    <string name="need_more_word">Thêm từ để play game</string>
+    <string name="notification">Thông Báo</string>
+    <string name="note">Ghi Chú</string>
+    <string name="update_success">Sửa Thành Công</string>
+    <string name="edit">Sửa</string>
+    <string name="search">Tìm Kiếm</string>
+    <string name="sure_delete">Bạn có chắc muốn Xóa ?</string>
+    <string name="textviewQuestion">Câu Hỏi</string>
+    <string name="answer">Đáp Án:</string>
+    <string name="permission_deny">Quyền truy cập đã bị từ chối, một số chức năng sẽ không hoạt động chính xác!</string>
+</resources>

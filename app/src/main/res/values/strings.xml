@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">321Vocabulary</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <!--Menu Context-->
+    <string name="action_exit">Exit</string>
+    <string name="action_setting">Setting</string>
+    <!--Menu selected item-->
+    <string name="action_new">New</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_deleteSelect">Delete Select</string>
+
+    <string name="title_activity_detail" translatable="false">Detail</string>
+    <string name="title_activity_main_detail" translatable="false">MainDetail</string>
+
+    <string name="text_retrieving_data" translatable="false">Retrieving data &#8230;</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="appwidget_text" translatable="false">EXAMPLE ABC</string>
+    <string name="add_widget">Add widget</string>
+
+    <!--Dialog Add new Word-->
+    <string name="add_image">Add image</string>
+    <string name="remove_image">Remove image</string>
+    <string name="add_sound">Add sound</string>
+    <string name="remove_sound">Remove sound</string>
+
+    <!--Add new word diaglog-->
+    <string name="trans">translation</string>
+    <string name="word">word</string>
+    <string name="new_word">New Word</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="category">category (can skip)</string>
+    <string name="add_successfully">Add Successfully</string>
+    <string name="fill_missing_infor" translatable="false">Fill in the required information</string>
+    <string name="duplicate_value">Already have this word, try another one</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate" translatable="false">Vibrate</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="card">Card</string>
+    <string name="quiz">quiz</string>
+    <string name="typing">Typing</string>
+    <string name="need_more_word">Need more word to play game</string>
+    <string name="sure_delete">Are you sure ?</string>
+    <string name="notification">Notification</string>
+    <string name="note">Note</string>
+    <string name="update_success">Update Successfully</string>
+    <string name="edit">Edit</string>
+
+
+    <string name="search">Search</string>
+    <string name="textviewQuestion">Question</string>
+    <string name="answer">Answer</string>
+    <string name="permission_deny">Permission denied to read your External storage. Some function will not work correctly!</string>
+
+
+</resources>

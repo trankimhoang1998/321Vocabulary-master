@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?android:attr/activatedBackgroundIndicator">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/txtTen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bird"
+            android:textSize="@dimen/word_ten_text_size"
+            android:textColor="@color/header_text" />
+
+        <TextView
+            android:id="@+id/txtTheLoai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="tag"
+            android:textSize="@dimen/theloai_text_size"
+            android:textStyle="italic"
+            android:textColor="@color/theloai_view_text_color"
+            android:background="@drawable/rounded_corner"
+            android:layout_below="@+id/txtTen"/>
+
+        <TextView
+            android:id="@+id/txtMota"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bird"
+            android:textSize="@dimen/word_mota_text_size"
+            android:textColor="@color/normal_text_color"
+            android:layout_below="@+id/txtTheLoai" />
+    </RelativeLayout>
+
+</LinearLayout>
